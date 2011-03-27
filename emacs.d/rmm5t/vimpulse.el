@@ -4,6 +4,13 @@
 (vimpulse-vmap ",c" 'comment-dwim)
 (vimpulse-map ",b" 'ido-switch-buffer)
 
+;; some slime shortcuts
+(vimpulse-map ",eb" 'slime-eval-buffer)
+(vimpulse-vmap ",er" 'slime-eval-region)
+(vimpulse-map ",er" 'slime-eval-defun)
+
+(vimpulse-map ",rt" 'clj-run-tests)
+(vimpulse-map ",tt" 'clojure-test-run-test)
 
 ;; S-expression text objects
 (vimpulse-define-text-object vimpulse-sexp (arg)
