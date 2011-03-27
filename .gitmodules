@@ -83,3 +83,12 @@
 [submodule "emacs.d/vendor/haml-mode"]
 	path = emacs.d/vendor/haml-mode
 	url = https://github.com/nex3/haml-mode.git
+[submodule "emacs.d/vendor/vimpulse"]
+	path = emacs.d/vendor/vimpulse
+	url = git://gitorious.org/vimpulse/vimpulse.git
+[submodule "emacs.d/vendor/clojure-mode"]
+	path = emacs.d/vendor/clojure-mode
+	url = https://github.com/technomancy/clojure-mode.git
+[submodule "emacs.d/vendor/paredit"]
+	path = emacs.d/vendor/paredit
+	url = https://github.com/emacsmirror/paredit.git

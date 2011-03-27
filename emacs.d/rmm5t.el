@@ -55,6 +55,9 @@
 (vendor 'lua-mode      'lua-mode)
 (vendor 'feature-mode)
 (vendor 'mode-line-bell)
+(vendor 'vimpulse)
+(vendor 'paredit)
+(vendor 'clojure-mode)
 
 ;; (vendor 'ruby-electric 'ruby-electric-mode)
 ;; (vendor 'auctex)
