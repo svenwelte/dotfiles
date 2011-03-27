@@ -58,6 +58,7 @@
 (vendor 'vimpulse)
 (vendor 'paredit)
 (vendor 'clojure-mode)
+(vendor 'slime)
 
 ;; (vendor 'ruby-electric 'ruby-electric-mode)
 ;; (vendor 'auctex)

@@ -92,3 +92,6 @@
 [submodule "emacs.d/vendor/paredit"]
 	path = emacs.d/vendor/paredit
 	url = https://github.com/emacsmirror/paredit.git
+[submodule "emacs.d/vendor/slime"]
+	path = emacs.d/vendor/slime
+	url = https://github.com/nablaone/slime.git
